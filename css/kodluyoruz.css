@@ -1,0 +1,28 @@
+/************************************* Layout **************************************/
+
+/* Class -> .text-red {} */
+/* ID -> #id-bilgisi {} */
+
+.a {
+    text-align: center;
+  }
+
+  .text-red {
+    color: red;
+  }
+
+  .text-cyan {
+      color: #916BBF;
+  }
+
+  .text-sari {
+      color: #FFB319;
+  }
+
+  .sirasiz {
+    list-style-position: inside;
+  }
+
+  .b {
+      text-align: left;
+  }
